@@ -28,13 +28,3 @@ I'm open to collaborations, research opportunities, and discussions on AI & Envi
 ![Portia-dot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Portia-dot&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Portia-dot&layout=compact&theme=radical)
 
-
-✨ **Fun Fact or Personal Touch**
-
-- I start my day debugging code and end it exploring AI-driven climate solutions.
-- When I'm not analyzing data, you can find me learning about space tech and automation!
-
-Thank you for visiting my profile!
-
----
-Portia
