@@ -31,8 +31,3 @@ I'm open to collaborations, research partnerships, and discussions at the inters
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:modamorioluwayomi@gmail.com)
 
 ---
-
-## 📈 GitHub Stats
-
-![Portia-dot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Portia-dot&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Portia-dot&layout=compact&theme=radical)
