@@ -1,4 +1,4 @@
-# Welcome to NOA7's GitHub!  
+# Welcome to Portia Dot's GitHub!  
 Hi there! I'm **Modamori Oluwayomi Felix** — a Data Analyst and Machine Learning Developer driven by curiosity and a mission to turn raw data into powerful insight.
 
 **_"From wildfire prediction to dashboard design — I build data tools that matter."_**
