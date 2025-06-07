@@ -1,33 +1,61 @@
-# Welcome to Portia-dot's GitHub! 🌐
+# Welcome to NOA7's GitHub!  
+Hi there! I'm **Modamori Oluwayomi Felix** — a Data Analyst and Machine Learning Developer driven by curiosity and a mission to turn raw data into powerful insight.
 
-Hello! I'm **Modamori Oluwayomi Felix** — a Data Scientist and Researcher passionate about transforming complex environmental and societal challenges into actionable insights using AI, machine learning, and big data.
-
-**"Turning Data into Insight, One Model at a Time."**
-
----
-
-## 🚀 About Me
-
-With a background rooted in logic-based problem-solving, I specialize in **Geospatial Analysis**, **Predictive Modeling**, and **AI-driven Environmental Research**. My work focuses on building scalable tools for wildfire risk prediction, climate data forecasting, and environmental impact assessment.
-
-I'm known for my **curiosity**, adaptability, and ability to quickly master new programming languages and technologies to solve high-impact problems.
+**_"From wildfire prediction to dashboard design — I build data tools that matter."_**
 
 ---
 
-## 💻 Technical Skills
+##  About Me
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-- **Geospatial Tools:** ArcGIS Pro, QGIS
-- **ML & AI Frameworks:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-- **Visualization & BI:** Tableau, Power BI
+With a background in **Environmental and Data Science**, I bring together **machine learning**, **GIS**, and **data storytelling** to tackle real-world problems — from wildfire risk prediction to public safety planning.
+
+ I'm passionate about:
+- **Predictive modeling** (Random Forest, XGBoost, Neural Nets)
+- **Geospatial analysis** (ArcGIS Pro, QGIS, Python)
+- **Dashboarding & BI** (Power BI, Firebase, Streamlit)
+- **End-to-end workflows** — from data ingestion to web deployment
+
+Whether I’m optimizing a machine learning algorithm or building a front-end interface for a data product, I care about impact, clarity, and continuous learning.
+
+---
+
+## 🛠️ Current Stack
+
+**Languages & Libraries**:  
+`Python` · `SQL` · `JavaScript` · `Pandas` · `Scikit-learn` · `TensorFlow`
+
+**GIS & Remote Sensing**:  
+`ArcGIS Pro` · `QGIS` · `GeoPandas` · `Leaflet.js`
+
+**Visualization & Dashboarding**:  
+`Power BI` · `Plotly` · `Streamlit` · `React.js`
+
+**Tools**:  
+`Git` · `Firebase` · `Vercel` · `Jupyter` · `PostgreSQL` · `Google Earth Engine`
 
 ---
 
-## 🤝 Let's Connect
+## Featured Projects
+ **Wildfire Risk Prediction**  
+Random Forest model using weather and satellite data to forecast wildfire hotspots.  
+🛠 Python · ArcGIS Pro · Scikit-learn
 
-I'm open to collaborations, research partnerships, and discussions at the intersection of **AI and environmental science**.
+ **911 Robbery Analysis**  
+GIS-driven project mapping high-risk areas in Regina using spatial clustering and service coverage tools.  
+🛠 ArcGIS Pro · Python · Network Analyst
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modamori/)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:modamorioluwayomi@gmail.com)
+ **Power BI Portfolio**  
+Interactive dashboards highlighting key metrics across simulated public service datasets.  
+🛠 Power BI · SQL · DAX · Data Modeling
+
+ **AI-Powered Report Generator**  
+Integrated GPT-3.5 into data pipelines to speed up wildfire report generation by 20%.  
+🛠 Python · OpenAI API · Pandas
 
 ---
+
+##  Connect with Me
+
+📫 [Email Me](mailto:oluwayomi.modamori@gmail.com)  
+🌐 [Portfolio](https://noa7.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/modamori/)  
